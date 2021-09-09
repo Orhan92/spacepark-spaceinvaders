@@ -1,4 +1,4 @@
-name: dotnet package
+name: CI Pipeline build & tests
 defaults: 
   run: 
     working-directory: Source
